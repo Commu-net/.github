@@ -25,7 +25,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Commu-net">
     <img src="../assets/Communet-b_0tT9y4.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -70,7 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About  
 
-<img src="../assets/home_page.png" alt="Logo" width="800" height="auto">
+<img src="./assets/home_page.png" alt="Logo" width="800" height="auto">
 
 Communet is a cutting-edge open source platform dedicated to automating and enhancing outreach efforts for businesses, marketers, and individuals alike. With a focus on automation, personalization, and scalability, Communet offers a comprehensive suite of tools to streamline emails and facilitate communication with target audiences empowering users with intuitive solutions that optimize time efficiency and drive meaningful engagement.
 
