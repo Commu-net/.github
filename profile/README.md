@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Commu-net">
-    <img src="../assets/Communet-b_0tT9y4.png" alt="Logo" width="80" height="80">
+    <img src="./assets/Communet-b_0tT9y4.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Communet</h3>
@@ -89,26 +89,26 @@ Here's why you shoudld consider using communet:
 These are some of the utilities frameworks languages and tools that we used to build the platform.
 
 <div>
-  <img src="../assets/react.png" height="80px">
-  <img src="../assets/typescript.png" height="80px">
-  <img src="../assets/javascript.png" height="80px">
-  <img src="../assets/redux.png" height="80px">
-  <img src="../assets/shadcn.png" height="80px">
-  <img src="../assets/css.webp" height="80px">
-  <img src="../assets/taliwind.png" height="80px">
-  <img src="../assets/zod.png" height="80px">
-  <img src="../assets/lottie.png" height="80px">
+  <img src="./assets/react.png" height="80px">
+  <img src="./assets/typescript.png" height="80px">
+  <img src="./assets/javascript.png" height="80px">
+  <img src="./assets/redux.png" height="80px">
+  <img src="./assets/shadcn.png" height="80px">
+  <img src="./assets/css.webp" height="80px">
+  <img src="./assets/taliwind.png" height="80px">
+  <img src="./assets/zod.png" height="80px">
+  <img src="./assets/lottie.png" height="80px">
 
 
-  <img src="../assets/vercel.png" height="80px">
-  <img src="../assets/vite.png" height="80px">
-  <img src="../assets/node.png" height="80px">
-  <img src="../assets/express.png" height="80px">
-  <img src="../assets/mongo.png" height="80px">
-  <img src="../assets/python.png" height="80px">
-  <img src="../assets/nginx.png" height="80px">
-  <img src="../assets/aws.png" height="80px">
-  <img src="../assets/gcp.png" height="80px">
+  <img src="./assets/vercel.png" height="80px">
+  <img src="./assets/vite.png" height="80px">
+  <img src="./assets/node.png" height="80px">
+  <img src="./assets/express.png" height="80px">
+  <img src="./assets/mongo.png" height="80px">
+  <img src="./assets/python.png" height="80px">
+  <img src="./assets/nginx.png" height="80px">
+  <img src="./assets/aws.png" height="80px">
+  <img src="./assets/gcp.png" height="80px">
 
 
 
@@ -146,37 +146,37 @@ Clone the repo and navigate to the  ```Mailer_frontend``` path and install all t
 Here are some simple steps, following which you can use th platform at it's full potential
 
 ### 1 Visit the website of communet 
- <img src="../assets/home_page.png">
+ <img src="./assets/home_page.png">
 
 ### 2 Read the documentation at resources page to get started 
- <img src="../assets/documentation_page.png">
+ <img src="./assets/documentation_page.png">
 
  ### 3 Login to communet using Google
- <img src="../assets/login_page.png">
+ <img src="./assets/login_page.png">
 
  ### 4 Navigate to dashboard 
- <img src="../assets/dashboard_page.png">
+ <img src="./assets/dashboard_page.png">
 
  ### 5 Add profile
  1. you can add profile by manual entry
- <img src="../assets/create_profile.png">
+ <img src="./assets/create_profile.png">
  2. you can also add profiles by excel files
- <img src="../assets/import_profile_from_excel.png">
+ <img src="./assets/import_profile_from_excel.png">
  3. you can also add profiles usig our profile scraper extension 
-  <img src="../assets/get_profile_from_extension.png">
+  <img src="./assets/get_profile_from_extension.png">
 
  ### 6 Select the profiles to send mail to 
- <img src="../assets/select_profile.png">
+ <img src="./assets/select_profile.png">
 
  ### 7 compose mail and send to all selected profiles at once
- <img src="../assets/compose_mail.png">
+ <img src="./assets/compose_mail.png">
 
  ### 8 Edit and delete profiles
   1. Edit the profile using actions for the profile 
-<img src="../assets/Edit_profile.png">
+<img src="./assets/Edit_profile.png">
 
  2. Delete the profile using actions for the profile 
-<img src="../assets/delete_profile.png">
+<img src="./assets/delete_profile.png">
 
 
 
