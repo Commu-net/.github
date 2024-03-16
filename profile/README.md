@@ -26,22 +26,23 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/Communet-b_0tT9y4.png" alt="Logo" width="80" height="80">
+    <img src="../assets/Communet-b_0tT9y4.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Communet</h3>
 
-  <p align="center">
+  <p align="center" >
     The open source bulk mailing utility for all your needs
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://commu-net.vercel.app/resources"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://commu-net.vercel.app">Live link</a>
+    <a href=" ">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/Commu-net/Mailer_frontend/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Commu-net/Mailer_frontend/issues">Request Feature</a>
   </p>
 </div>
 
@@ -52,61 +53,67 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      About The Project
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li>Built With</li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li>Usage</li>
+    <li>Contributing</li>
+    <li>License</li>
+    <li>Developers</li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About  
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="../assets/home_page.png" alt="Logo" width="800" height="auto">
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Communet is a cutting-edge open source platform dedicated to automating and enhancing outreach efforts for businesses, marketers, and individuals alike. With a focus on automation, personalization, and scalability, Communet offers a comprehensive suite of tools to streamline emails and facilitate communication with target audiences empowering users with intuitive solutions that optimize time efficiency and drive meaningful engagement.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Here's why you shoudld consider using communet:
+* Your time is precious, and to optimize it, you write and we handle the email sending process for you.
+* You can manage your receipients at your convinence .
+* Last but not the least you can add personalization to your mail to keep it unique to everyone.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
-Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+These are some of the utilities frameworks languages and tools that we used to build the platform.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+<div>
+  <img src="../assets/react.png" height="80px">
+  <img src="../assets/typescript.png" height="80px">
+  <img src="../assets/javascript.png" height="80px">
+  <img src="../assets/redux.png" height="80px">
+  <img src="../assets/shadcn.png" height="80px">
+  <img src="../assets/css.webp" height="80px">
+  <img src="../assets/taliwind.png" height="80px">
+  <img src="../assets/zod.png" height="80px">
+  <img src="../assets/lottie.png" height="80px">
+
+
+  <img src="../assets/vercel.png" height="80px">
+  <img src="../assets/vite.png" height="80px">
+  <img src="../assets/node.png" height="80px">
+  <img src="../assets/express.png" height="80px">
+  <img src="../assets/mongo.png" height="80px">
+  <img src="../assets/python.png" height="80px">
+  <img src="../assets/nginx.png" height="80px">
+  <img src="../assets/aws.png" height="80px">
+  <img src="../assets/gcp.png" height="80px">
+
+
+
+
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,57 +127,61 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Clone the repo and navigate to the  ```Mailer_frontend``` path and install all the dependencies
+* Installing dependencies
   ```sh
-  npm install npm@latest -g
+  npm install 
   ```
 
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+* Run the app
+  ```sh
+   npm run dev
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+* navigate to ```localhost:5173``` to visit the locally set up project
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Here are some simple steps, following which you can use th platform at it's full potential
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+### 1 Visit the website of communet 
+ <img src="../assets/home_page.png">
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### 2 Read the documentation at resources page to get started 
+ <img src="../assets/documentation_page.png">
 
+ ### 3 Login to communet using Google
+ <img src="../assets/login_page.png">
 
+ ### 4 Navigate to dashboard 
+ <img src="../assets/dashboard_page.png">
 
-<!-- ROADMAP -->
-## Roadmap
+ ### 5 Add profile
+ 1. you can add profile by manual entry
+ <img src="../assets/create_profile.png">
+ 2. you can also add profiles by excel files
+ <img src="../assets/import_profile_from_excel.png">
+ 3. you can also add profiles usig our profile scraper extension 
+  <img src="../assets/get_profile_from_extension.png">
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+ ### 6 Select the profiles to send mail to 
+ <img src="../assets/select_profile.png">
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+ ### 7 compose mail and send to all selected profiles at once
+ <img src="../assets/compose_mail.png">
+
+ ### 8 Edit and delete profiles
+  1. Edit the profile using actions for the profile 
+<img src="../assets/Edit_profile.png">
+
+ 2. Delete the profile using actions for the profile 
+<img src="../assets/delete_profile.png">
+
+## Read more about communet 
+ Navigate to this <a href="https://medium.com/@alchemyrecloak/communet-2027d8f4f634">Blog </a> to read more about 
+
+_For more examples, please refer to the [Documentation](https://commu-net.vercel.app/resources)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -203,32 +214,20 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
+<!-- Developers -->
+## Developers
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+1. [Chahat sagar](https://github.com/chahatsagarmain) 
+2. [Ayush Vishwakarma](https://github.com/Ayush-Vish) 
+3. [Ritu Raj](https://github.com/rituraj12797) 
 
 
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+Project Link: [https://commu-net.vercel.app](https://commu-net.vercel.app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 
 
 
