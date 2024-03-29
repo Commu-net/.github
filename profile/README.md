@@ -37,7 +37,7 @@
     <a href="https://commu-net.vercel.app/resources"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://commu-net.vercel.app">Live link</a>
+    <a href="https://commu-net.vercel.app">Liv link</a>
     <a href="https://drive.google.com/file/d/1yN9ki9BLJniG44eQWAorqQjKJdj5qsOR/view?usp=sharing">View Demo</a>
     ·
     <a href="https://github.com/Commu-net/Mailer_frontend/issues">Report Bug</a>
